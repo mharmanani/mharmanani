@@ -1,20 +1,43 @@
-<h1>Hi 👋, I'm Mohamed</h1>
-I'm a MSc Candidate in Artificial Intelligence at the School of Computing at Queen’s University. I am a member of the Medical Informatics laboratory, supervised by Dr. Parvin Mousavi. 
-Earlier this year, I completed my Honours Bachelor’s degree in Computer Science at the University of Toronto. 
+# 👋 Hello, I'm Mohamed
 
-- 🔬 My primary interests are in bioinformatics, data science, deep learning, and medical imaging. My research will broadly focus on applying deep learning techniques to cancer classification in medical data.
+## 🔬 About Me
 
-- 👨‍💻 My projects & past experience are available on [my website](https://harmanani.com)
+I am a Doctoral Researcher at the Vector Institute and a PhD student at Queen's University in the Medical Informatics Laboratory. My research focuses on designing, training, and deploying trustworthy deep learning models for disease diagnosis and computer-assisted interventions.
 
-- 📄 My CV is also available [here](https://harmanani.com/data/cv.pdf) 
+My research interests include:
 
-- 📝 Sometimes, I write stuff on [Medium](https://medium.com/@mharmanani)
+- 🧠 Deep Learning
+- 🩻 Medical Imaging
+- 🖼️ Computer Vision
+- 💬 Natural Language Processing
 
-<h3 align="left">🌍 Connect with me</h3>
+Most of my repositories reflect ongoing or completed projects, tools, or experiments related to my PhD work.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mharmanani)
-- 📧 [Email](mohamed.harmanani@queensu.ca)
+## 📚 Research Highlights
 
+### 🔬 Current Projects
 
-<h3 align="left">🔧 Toolbox</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+- **🧠 Image-Guided Medical Reasoning** – Using large vision-language and reasoning models for interpretable diagnostics in medical imaging.
+- **🔄 Multi-Modal Knowledge Transfer** – Learning from diverse data and imaging modalities (e.g., histology, MRI) and transferring knowledge to low-data clinical settings.
+- **🎯Attribute Localization and Visual Grounding** – Identifying diagnostically relevant regions in medical images using attention and visual explanations.
+
+### 📄 Featured Publications
+
+- **M. Harmanani**, PFR. Wilson, MNN. To, *et al.* (2025). [*TRUSWorthy: toward clinically applicable deep learning for confident detection of prostate cancer in micro-ultrasound*](https://arxiv.org/pdf/2502.14707). **Int. J. CARS**.
+- **M. Harmanani**, A. Jamzad, MNN. To, *et al.* (2025). [*Cinepro: Robust training of foundation models for cancer detection in prostate ultrasound cineloops*](https://arxiv.org/abs/2501.12331). **IEEE ISBI 2025**. 
+- T. Elghareb, **M. Harmanani^**, MNN. To^, *et al.* (2025). *ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection*. **MICCAI 2025**.
+- MNN. To, PFR. Wilson, V. Nguyen, **M. Harmanani**, *et al.* (2025). [*Diverse Prototypical Ensembles Improve Robustness to Subpopulation Shift*](https://arxiv.org/pdf/2505.23027). **ICML 2025**.
+
+A full list of publications are available at: https://scholar.google.com/citations?user=dNDG5CgAAAAJ&hl=en
+
+## 🔗 Relevant Links
+
+- 🎓[Google Scholar](https://scholar.google.com/citations?user=dNDG5CgAAAAJ&hl=en)  
+- 📄 [CV](https://yourwebsite.com)
+- 🌐 Website: [harmanani.com](https://www.harmanani.com)
+
+## 📫 Get in Touch
+
+- 📧 Email: [mohamed.harmanani@queensu.ca](mailto:mohamed.harmanani@queensu.ca)
+- 💼 LinkedIn: [linkedin.com/in/mharmanani](https://linkedin.com/in/mharmanani)
+
