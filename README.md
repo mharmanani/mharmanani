@@ -33,7 +33,7 @@ A full list of publications are available at: https://scholar.google.com/citatio
 ## 🔗 Relevant Links
 
 - 🎓[Google Scholar](https://scholar.google.com/citations?user=dNDG5CgAAAAJ&hl=en)  
-- 📄 [CV](https://yourwebsite.com)
+- 📄 [CV](https://harmanani.com/data/cv.pdf)
 - 🌐 Website: [harmanani.com](https://www.harmanani.com)
 
 ## 📫 Get in Touch
