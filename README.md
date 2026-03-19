@@ -23,9 +23,10 @@ Most of my repositories reflect ongoing or completed projects, tools, or experim
 - **🔄 Multi-Modal Knowledge Transfer** – Learning from diverse data and imaging modalities (e.g., histology, MRI) and transferring knowledge to low-data clinical settings.
 
 ### 📄 Featured Publications
-- **M. Harmanani**, A. Jamzad, MNN. To, *et al.* (2025). [*Cinepro: Robust training of foundation models for cancer detection in prostate ultrasound cineloops*](https://arxiv.org/abs/2501.12331). **IEEE ISBI 2025**. 
+- **M. Harmanani**, B. Long<sup>\*</sup>, Z. Guo<sup>\*</sup>, *et al.* (2026). [*Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning*](https://arxiv.org/abs/2603.08921). **Findings of CVPR 2026**. 
+- **M. Harmanani**, A. Jamzad<sup>\*</sup>, MNN. To<sup>\*</sup>, *et al.* (2025). [*Cinepro: Robust training of foundation models for cancer detection in prostate ultrasound cineloops*](https://arxiv.org/abs/2501.12331). **IEEE ISBI 2025**. 
 - **M. Harmanani**, PFR. Wilson, MNN. To, *et al.* (2025). [*TRUSWorthy: toward clinically applicable deep learning for confident detection of prostate cancer in micro-ultrasound*](https://arxiv.org/pdf/2502.14707). **Int. J. CARS**.
-- T. Elghareb, **M. Harmanani^**, MNN. To^, *et al.* (2025). [*ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection*](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_39). **MICCAI 2025**.
+- T. Elghareb, **M. Harmanani**<sup>\*</sup>, MNN. To<sup>\*</sup>, *et al.* (2025). [*ProTeUS: A Spatio-Temporal Enhanced Ultrasound-Based Framework for Prostate Cancer Detection*](https://link.springer.com/chapter/10.1007/978-3-032-04984-1_39). **MICCAI 2025**.
 - MNN. To, PFR. Wilson, V. Nguyen, **M. Harmanani**, *et al.* (2025). [*Diverse Prototypical Ensembles Improve Robustness to Subpopulation Shift*](https://arxiv.org/pdf/2505.23027). **ICML 2025**.
 
 A full list of publications are available at: https://scholar.google.com/citations?user=dNDG5CgAAAAJ&hl=en
